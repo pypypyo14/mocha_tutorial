@@ -1,0 +1,1 @@
+[javascript.info](https://ja.javascript.info/)より
